@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-29 06:53:17</sys_created_on>
+        <sys_id>baae4dd2dbfca300f0935740cf961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_279371_demo_demo.x_279371_demo.demo_user</sys_name>
+        <sys_package display_value="Demo" source="x_279371_demo">99e66c56dbb4a300f0935740cf96190c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">99e66c56dbb4a300f0935740cf96190c</sys_scope>
+        <sys_security_acl display_value="x_279371_demo_demo">72ae4dd2dbfca300f0935740cf961901</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_baae4dd2dbfca300f0935740cf961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-29 06:53:17</sys_updated_on>
+        <sys_user_role display_value="x_279371_demo.demo_user" name="x_279371_demo.demo_user">6eae0dd2dbfca300f0935740cf9619d8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

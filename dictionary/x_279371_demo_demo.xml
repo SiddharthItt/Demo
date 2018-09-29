@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Demo" max_length="40" name="x_279371_demo_demo" type="collection"/>
+</database>
