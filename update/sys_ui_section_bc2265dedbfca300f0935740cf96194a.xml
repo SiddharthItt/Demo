@@ -1,70 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="21c01156dbfca300f0935740cf9619f0" sys_domain="global" table="x_279371_demo_demo" version="3" view="">
+    <sys_ui_section caption="Statatics" section_id="bc2265dedbfca300f0935740cf96194a" sys_domain="global" table="x_279371_demo_demo" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>opened_at</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>3822a5dedbfca300f0935740cf961906</sys_id>
+            <sys_id>7822a5dedbfca300f0935740cf961911</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_requested_for</element>
+            <element>sys_updated_on</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>b822a5dedbfca300f0935740cf961906</sys_id>
+            <sys_id>f822a5dedbfca300f0935740cf961911</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_request_type</element>
+            <element>sys_created_on</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>3c22a5dedbfca300f0935740cf961906</sys_id>
+            <sys_id>7c22a5dedbfca300f0935740cf961911</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_what_needed</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>bc22a5dedbfca300f0935740cf961906</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_when_needed</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>3022a5dedbfca300f0935740cf961907</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
             <sys_user/>
@@ -72,68 +44,96 @@
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>b022a5dedbfca300f0935740cf961907</sys_id>
+            <sys_id>fc22a5dedbfca300f0935740cf961911</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>6</position>
+            <element>opened_by</element>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>3422a5dedbfca300f0935740cf961907</sys_id>
+            <sys_id>7022a5dedbfca300f0935740cf961912</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-29 08:18:21</sys_created_on>
+            <sys_id>f022a5dedbfca300f0935740cf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-29 08:18:21</sys_created_on>
+            <sys_id>7422a5dedbfca300f0935740cf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-29 08:18:21</sys_created_on>
-            <sys_id>b422a5dedbfca300f0935740cf961907</sys_id>
+            <sys_id>f422a5dedbfca300f0935740cf961912</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_279371_demo_demo" sys_domain="global" view="Default view">21c01156dbfca300f0935740cf9619f0</sys_ui_section>
+            <sys_ui_section caption="Statatics" display_value="Statatics" name="x_279371_demo_demo" sys_domain="global" view="Default view">bc2265dedbfca300f0935740cf96194a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-29 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Statatics</caption>
             <header>false</header>
             <name>x_279371_demo_demo</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-29 07:02:29</sys_created_on>
+            <sys_created_on>2018-09-29 08:18:20</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>21c01156dbfca300f0935740cf9619f0</sys_id>
+            <sys_id>bc2265dedbfca300f0935740cf96194a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_279371_demo_demo</sys_name>
+            <sys_name>Statatics</sys_name>
             <sys_overrides/>
             <sys_package display_value="Demo" source="x_279371_demo">99e66c56dbb4a300f0935740cf96190c</sys_package>
             <sys_policy/>
             <sys_scope display_value="Demo">99e66c56dbb4a300f0935740cf96190c</sys_scope>
-            <sys_update_name>sys_ui_section_21c01156dbfca300f0935740cf9619f0</sys_update_name>
+            <sys_update_name>sys_ui_section_bc2265dedbfca300f0935740cf96194a</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-29 07:02:29</sys_updated_on>
+            <sys_updated_on>2018-09-29 08:18:20</sys_updated_on>
             <sys_user/>
-            <title>true</title>
+            <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
